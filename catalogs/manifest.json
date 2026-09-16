@@ -1,0 +1,18 @@
+{
+  "catalogVersion": "2026-09-16",
+  "sourceWorkbook": "Forge_Catalog_Reference_v1.xlsx",
+  "sourceSheets": [
+    "Model_Mapping_Catalog",
+    "Model_Selection",
+    "Hardware_Mapping_Catalog",
+    "GPU_Server_Selection"
+  ],
+  "files": {
+    "Model_Mapping_Catalog": "Model_Mapping_Catalog.json",
+    "Model_Selection": "Model_Selection.json",
+    "Hardware_Mapping_Catalog": "Hardware_Mapping_Catalog.json",
+    "GPU_Server_Selection": "GPU_Server_Selection.json"
+  },
+  "product": "InfraPilot AI",
+  "formulaPolicy": "Keep formulas in source workbook; JSON export preserves formula text for audit and server-side calculation migration."
+}
